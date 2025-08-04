@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "name": "Order Kuota",
+      "items": [
+        {
+          "name": "Create Payment",
+          "desc": "Membuat Qris Pembayaran",
+          "path": "/orderkuota/createpayment?apikey=&amount=&codeqr="
+        },
+        {
+          "name": "Cek Status",
+          "desc": "Mengecek Status Pembayaran",
+          "path": "/orderkuota/cekstatus?apikey=&username=&password=&authToken=",
+        },
+        {
+          "name": "Login",
+          "desc": "Login Ke Akun Order Kuota",
+          "path": "/orderkuota/login?apikey=&username=&password=",
+        },
+        {
+          "name": "Verif Otp",
+          "desc": "Verifikasi Otp",
+          "path": "/orderkuota/verify-otp?apikey=&username=&otp=",
+        },
+        {
+          "name": "Mutasi",
+          "desc": "Melihat Mutasi",
+          "path": "/orderkuota/cekstatus?apikey=&username=&password=&auth_token=",
+        }
+      ]
+    }
+  ]
+}

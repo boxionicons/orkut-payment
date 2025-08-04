@@ -1,0 +1,30 @@
+{
+  "name": "Wahyu Store",
+  "version": "Wahyu Store",
+  "description": "Simple and Easy-to-Use API Documentation",
+  "apikey": ["memew27"],
+  "header": {
+    "status": "Online!",
+    "imageSrc": [
+      "https://media4.giphy.com/media/l0Iy33dWjmywkCnNS/giphy.gif?cid=6c09b952p3mt40j1mgznfi9rwwtccbjl7mtc2kvfugymeinr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"
+    ],
+    "imageSize": {
+      "mobile": "80%",
+      "tablet": "40%",
+      "desktop": "40%"
+    }
+  },
+  "apiSettings": {
+    "creator": "Wahyu Store"
+  },
+  "links": [
+    {
+      "name": "My Github",
+      "url": "https://github.com/"
+    },
+    {
+      "name": "Contact Me",
+      "url": "https://wa.me/"
+    }
+  ]
+}
